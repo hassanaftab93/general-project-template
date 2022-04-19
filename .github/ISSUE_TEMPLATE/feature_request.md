@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: "[NEW FEATURE REQUEST]"
+labels: enhancement, feature request
+assignees: hassanaftab93
 
 ---
 
