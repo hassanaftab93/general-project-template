@@ -1,29 +1,91 @@
 
 # Project Name
 
-[![Deploy to Heroku](https://github.com/hassanaftab93/general-project-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hassanaftab93/general-project-template/actions/workflows/main.yml)
+<!-- --- DEPLOYMENT STATUS CODE ---
 
-## SubTopic
+Deployment Status: [![Deploy to Heroku](https://github.com/hassanaftab93/REPO-NAME/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hassanaftab93/REPO-NAME/actions/workflows/main.yml)
 
-Subtopic Details
+-->
+<!-- --- FORMAT OF MARK DOWN WITH COLLAPSIBLE MENU ---
+<details>
+  <summary>
+    <h2>
+      
+    </h2>
+  </summary>
 
+</details>
+-->
+<!---------------------------------------- SECTION DIVIDER ---------------------------------------->
+<details>
+  <summary>
+    <h2>
+      SubTopic: What to Explain / Dry Runs etc.
+    </h2>
+  </summary>
 
-## Steps
+  Subtopic Detail 1
+  Subtopic Detail 2
+</details>
 
-Steps
+<!---------------------------------------- SECTION DIVIDER ---------------------------------------->
+<details>
+  <summary>
+    <h2>
+      Steps
+    </h2>
+  </summary>
 
-```bash
-  commands / code
-```
-## Contributing
+  Step 1
+  ```bash
+    commands / code
+  ```
+  Step 2
+  ```bash
+    commands / code
+  ```
+</details>
 
-Contributions are always welcome!
+<!---------------------------------------- SECTION DIVIDER ---------------------------------------->
+<details>
+  <summary>
+    <h2>
+      Contributing
+    </h2>
+  </summary>
 
+  Click here to learn more about: ![Contributions](./docs/CONTRIBUTING.md)
+</details>
 
-## Authors
+<!---------------------------------------- SECTION DIVIDER ---------------------------------------->
+<details>
+  <summary>
+    <h2>
+      Contributors
+    </h2>
+  </summary>
 
-- [@hassanaftab93](https://www.github.com/hassanaftab93)
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/hassanaftab)
+  <!--
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaftab93/)
+  Add More Contributors here using the following line of code:
+  - [@username](https://www.github.com/username)
+
+  -->
+  - [@hassanaftab93](https://www.github.com/hassanaftab93)
+</details>
+
+<!---------------------------------------- SECTION DIVIDER ---------------------------------------->
+<details>
+  <summary>
+    <h2>
+      🔗 Links
+    </h2>
+  </summary>
+
+    |Portfolio|LinkedIn|
+    |:--:|:--:|
+    | [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/hassanaftab) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaftab93/) |
+</details>
+
+<!---------------------------------------- SECTION DIVIDER ---------------------------------------->
+
