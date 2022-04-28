@@ -20,19 +20,19 @@ Deployment Status: [![Deploy to Heroku](https://github.com/hassanaftab93/REPO-NA
 <details>
   <summary>
     <h2>
-      SubTopic: What to Explain / Dry Runs etc.
+      🛠 SubTopic: What to Explain / Dry Runs etc.
     </h2>
   </summary>
 
-  Subtopic Detail 1
-  Subtopic Detail 2
+  - Subtopic Detail 1
+  - Subtopic Detail 2
 </details>
 
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
 <details>
   <summary>
     <h2>
-      Steps
+      📑 Steps
     </h2>
   </summary>
 
@@ -50,28 +50,28 @@ Deployment Status: [![Deploy to Heroku](https://github.com/hassanaftab93/REPO-NA
 <details>
   <summary>
     <h2>
-      Contributing
+      📚 Contributing
     </h2>
   </summary>
 
-  Click here to learn more about: ![Contributions](./docs/CONTRIBUTING.md)
+  Click here to learn more about: [Contributions](./docs/CONTRIBUTING.md)
 </details>
 
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
 <details>
   <summary>
     <h2>
-      Contributors
+      ✒️ Author
     </h2>
   </summary>
 
   <!--
-
-  Add More Contributors here using the following line of code:
+  Add More Contributors/Authors here using the following line of code:
   - [@username](https://www.github.com/username)
-
   -->
+
   - [@hassanaftab93](https://www.github.com/hassanaftab93)
+
 </details>
 
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
@@ -82,9 +82,22 @@ Deployment Status: [![Deploy to Heroku](https://github.com/hassanaftab93/REPO-NA
     </h2>
   </summary>
 
-    |Portfolio|LinkedIn|
-    |:--:|:--:|
-    | [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/hassanaftab) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaftab93/) |
+<!--
+
+  Add your links here in the table below:
+  Remove my Table and use your own links.
+
+  |Type|Link|
+  |:--:|:--:|
+  |Portfolio| PORTFOLIO_LINK_HERE |
+  |LinkedIn| LINKEDIN_LINK_HERE |
+
+-->
+
+  |Type|Link|
+  |:--:|:--:|
+  | Portfolio | [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/hassanaftab) |
+  | LinkedIn | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaftab93/) |
 </details>
 
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
