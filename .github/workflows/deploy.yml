@@ -1,8 +1,8 @@
-name: Python App -> Heroku Deployment
+name: App -> Deployment
 
 on:
   push:
-    branches: [ develop ]
+    branches: [ production ]
 
 jobs:
   build:
@@ -32,9 +32,10 @@ jobs:
     - name: Add remote origin
       if: github.ref == 'refs/heads/main' && job.status == 'success' # We specify that this action will ONLY run if everything up to now is successful- so if theres a fail in the tests, then this will not be deployed.
       run: | # Make sure to add ENVIRONMENT VARIABLES in REPOSITORY SETTINGS 1. HEROKU_API_KEY 2. HEROKU_APP_NAME
-        git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@git.heroku.com/${{ secrets.HEROKU_APP_NAME }}.git
-    - name: Deploy to Heroku
+        # git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@git.heroku.com/${{ secrets.HEROKU_APP_NAME }}.git
+        # git remote add [service] [api] [appkey].git
+    - name: Deploy to Deployment [Name Of Service]
       run: |
-        git push heroku HEAD:main -f
+        # git push heroku HEAD:main -f
         checkstring: "ok"
         rollbackonhealthcheckfailed: true
